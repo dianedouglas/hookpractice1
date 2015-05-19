@@ -4,3 +4,6 @@
 [submodule "sites/all/modules/hello_user"]
 	path = sites/all/modules/hello_user
 	url = https://github.com/dianedouglas/hello_user.git
+[submodule "sites/all/modules/comment_buddy"]
+	path = sites/all/modules/comment_buddy
+	url = https://github.com/dianedouglas/comment_buddy.git
